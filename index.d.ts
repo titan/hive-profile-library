@@ -1,7 +1,7 @@
 export interface User {
     id: string;
     openid: string;
-    passsword: string;
+    password: string;
     name: string;
     gender: string;
     identity_no: string;
