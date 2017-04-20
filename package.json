@@ -1,0 +1,17 @@
+{
+  "name": profile-library",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.fengchaohuzhu.com:10022/server/profile-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
