@@ -13,4 +13,7 @@ export interface User {
     tender_opened: boolean;
     insured: string;
     inviter: string;
+    max_orders: number;
+    created_at: Date;
+    updated_at: Date;
 }
