@@ -16,4 +16,5 @@ export interface User {
     max_orders: number;
     created_at: Date;
     updated_at: Date;
+    disabled: boolean;
 }
