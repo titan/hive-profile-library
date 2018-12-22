@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.fengchaohuzhu.com:10022/server/profile-library.git"
+    "url": "ssh://git@github.com/titan/hive-profile-library.git"
   },
   "keywords": [],
   "author": "",
